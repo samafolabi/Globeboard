@@ -1,0 +1,7 @@
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\bin\Debug\Globeboard.exe.config
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\bin\Debug\Globeboard.exe
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\bin\Debug\Globeboard.pdb
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\obj\Debug\Globeboard.csprojResolveAssemblyReference.cache
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\obj\Debug\Globeboard.csproj.CoreCompileInputs.cache
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\obj\Debug\Globeboard.exe
+C:\Users\emper\OneDrive\Code\Apps\Globeboard\Globeboard\obj\Debug\Globeboard.pdb
